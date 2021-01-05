@@ -77,7 +77,7 @@ Please refer this paper as
 
 ```
 @Article{fsaa,
-  author  = {Sizhe Song, Xiaoyuan Ni, Yu-Wing Tai, Chi-Keung Tang},
+  author  = {Xiaoyuan Ni, Sizhe Song, Yu-Wing Tai, Chi-Keung Tang},
   title   = {Semi-supervised Few-shot Atomic Action Recognition},
   journal = {arXiv preprint arXiv:2011.08410},
   year    = {2020},
