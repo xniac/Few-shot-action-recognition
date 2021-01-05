@@ -1,6 +1,6 @@
 # Semi-supervised Few-shot Atomic Action Recognition
 
-This repo contains the codes for our paper "Semi-supervised Few-shot Atomic Action Recognition". Please check our [paper](https://arxiv.org/abs/2011.08410) and [project page](https://sausage-song.github.io/home/FSAA/) for more details.
+This repo contains the codes for our paper "Semi-supervised Few-shot Atomic Action Recognition". Please check our [paper](https://arxiv.org/abs/2011.08410) and [project page](https://xniac.github.io/fsaa/) for more details.
 
 <img src="images/FS_Architecture.png" style="width:100%"></img>
 
